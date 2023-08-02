@@ -1,0 +1,133 @@
+{
+  "lines": [
+    {
+      "type": "vertical",
+      "height": 400,
+      "column_index": "two",
+      "padding_left": 0,
+      "padding_right": 0,
+      "milestones": [
+        {
+          "index": 0,
+          "status": "passed",
+          "offset": 150,
+          "deltaX": 0,
+          "deltaY": 0,
+          "gift_status": "none"
+        },
+        {
+          "index": 1,
+          "status": "lock",
+          "offset": 250,
+          "deltaX": 0,
+          "deltaY": 0,
+          "gift_status": "none"
+        }
+      ]
+    },
+
+    {
+      "type": "horizol",
+      "start_colum_index": "two",
+        "end_colum_index": "five",
+      "padding_left": 0,
+      "padding_right": 0,
+      "milestones": [
+        {
+          "index": 2,
+          "status": "lock",
+          "offset": 80,
+          "deltaX": 0,
+          "deltaY": 0,
+          "gift_status": "none"
+        },
+        {
+          "index": 3,
+          "status": "lock",
+          "offset": 200,
+          "deltaX": 0,
+          "deltaY": 20,
+          "gift_status": "none"
+        }
+      ]
+    },
+
+    {
+      "type": "vertical",
+      "height": 400,
+      "column_index": "five",
+      "padding_left": 0,
+      "padding_right": 0,
+      "milestones": [
+        {
+          "index": 4,
+          "status": "lock",
+          "offset": 150,
+          "deltaX": 0,
+          "deltaY": 0,
+          "gift_status": "none"
+        },
+        {
+          "index": 5,
+          "status": "lock",
+          "offset": 350,
+          "deltaX": 0,
+          "deltaY": 0,
+          "gift_status": "small_lock"
+        }
+      ]
+    },
+
+    {
+      "type": "horizol",
+      "start_colum_index": "five",
+        "end_colum_index": "one",
+      "padding_left": 0,
+      "padding_right": 0,
+      "milestones": [
+        {
+          "index": 6,
+          "status": "lock",
+          "offset": 150,
+          "deltaX": 0,
+          "deltaY": 0,
+          "gift_status": "none"
+        },
+        {
+          "index": 7,
+          "status": "lock",
+          "offset": 80,
+          "deltaX": 0,
+          "deltaY": 0,
+          "gift_status": "small_lock"
+        }
+      ]
+    },
+
+    {
+      "type": "vertical",
+      "height": 400,
+      "column_index": "one",
+      "padding_left": 0,
+      "padding_right": 0,
+      "milestones": [
+        {
+          "index": 8,
+          "status": "lock",
+          "offset": 150,
+          "deltaX": 0,
+          "deltaY": 0,
+          "gift_status": "none"
+        },
+        {
+          "index": 9,
+          "status": "lock",
+          "offset": 350,
+          "deltaX": 0,
+          "deltaY": 0,
+          "gift_status": "big_lock"
+        }
+      ]
+    },
+  ]
+}
