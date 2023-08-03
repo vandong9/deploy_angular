@@ -78,7 +78,7 @@
           "index": 4,
           "columnID": 5,
           "offset": 140,
-          "gift_status": 0,
+          "gift_status": "small_open",
           "deltaX": 0,
           "deltaY": 0,
           "status": "passed"
@@ -143,7 +143,7 @@
           "index": 8,
           "columnID": 7,
           "offset": 600,
-          "gift_status": 0,
+          "gift_status": "big_lock",
           "deltaX": 0,
           "deltaY": 0,
           "status": "lock"
